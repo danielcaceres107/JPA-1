@@ -1,0 +1,6 @@
+com\example\models\CompetitorDTO.class
+com\example\models\Producto.class
+com\example\Main.class
+com\example\PersistenceManager.class
+com\example\models\Competitor.class
+com\example\services\CompetitorService.class
